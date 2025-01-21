@@ -32,18 +32,18 @@ This project leverages artificial intelligence, specifically Convolutional Neura
 ## ⚙️ Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/plant-disease-detection.git  
+   git clone https://github.com/KaranYadavVaidikArya/Plant-Disease-Detection-System---.git
    cd plant-disease-detection
 
 2. Install dependencies:
- ```bash
-  pip install -r requirements.txt
- ```
+   ```bash
+    pip install -r requirements.txt
+   ```
 
 3. Run the app locally:
- ```bash
-  streamlit run app.py
- ```
+    ```bash
+     streamlit run app.py
+    ```
 
 ## 📊 Dataset  
 
